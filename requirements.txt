@@ -5,4 +5,5 @@ faiss-cpu
 numpy
 openai
 python-dotenv
+langchain_community
 langchain
